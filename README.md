@@ -8,10 +8,10 @@ In `analysis.ipynb` pytorch and sklearn K-means are used for clustering below we
 
 ![ElbowMethod](/plots/ElbowMethod.jpg)
 
-Afterwards, a visualisation of the results are done using a shape file of the US with k=3 and k=5.
-
-![ElbowMethod](/plots/ClusteringUsIncomeK3PerCountyCentralised.png 'k=3')
-
-![ElbowMethod](/plots/ClusteringUsIncomeK5PerCountyCentralised.png 'k=3')
+Afterwards, a visualisation of the results are done using a shape file of the US with k=3 and k=5.<br/>
+**k=3**
+![ElbowMethod](/plots/ClusteringUsIncomeK3PerCountyCentralised.png)
+**k=5**
+![ElbowMethod](/plots/ClusteringUsIncomeK5PerCountyCentralised.png)
 
 ## Brownie
