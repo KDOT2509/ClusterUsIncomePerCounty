@@ -15,4 +15,4 @@ Afterwards, a visualisation of the results are done using a shape file of the US
 ![ElbowMethod](/plots/ClusteringUsIncomeK5PerCountyCentralised.png)
 
 ## Brownie
-A simple smart contract has been implemented 'brownie/init/contracts/USIncome.sol' to simulate pushing the data to the Ethereum Blockchain via the 'brownie/init/scripts/UsIncome.py'. The basic idea behind this was to learn how to save data on the Ethereum chain and look for possible use cases in the space of GOV3.0.
+A simple smart contract has been implemented `brownie/init/contracts/USIncome.sol` to simulate pushing the data to the Ethereum Blockchain via the `brownie/init/scripts/UsIncome.py`. The basic idea behind this was to learn how to save data on the Ethereum chain and look for possible use cases in the space of GOV3.0.
